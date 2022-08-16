@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./assets/miFoto.jpg)
 
-Bienvenidos a
+Bienvenidos a la materia
 # Programación con objetos I
 ## Yo soy **Hernán Coniglio**, Estudiante asistente durante este segundo cuatrimestre de 2022
 
